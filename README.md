@@ -1,5 +1,5 @@
 # TrainsLIVE-Tokyo
-A Vector map rendition of the Tokyo train map system.
+A android application that uses vector map rendition of the Tokyo train map system.
 
 <p align="center">
   <img src="https://github.com/MalikS789/TrainsLIVE-Tokyo/blob/main/Screenshot_20190827-211036_TrainsLIVE%20-%20Tokyo.jpg" width="350">
